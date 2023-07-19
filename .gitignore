@@ -1,0 +1,7 @@
+alembic/versions
+.env
+alembic.ini
+database.db
+.idea/
+.DS_Store
+venv
