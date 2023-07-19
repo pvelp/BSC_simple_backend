@@ -5,3 +5,4 @@ database.db
 .idea/
 .DS_Store
 venv
+database/db_models/__pychache/
